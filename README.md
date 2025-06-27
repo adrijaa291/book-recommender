@@ -60,8 +60,8 @@ Data was cleaned and processed offline before saving as .pkl files.
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](assets/homepage.png)
+![Homepage](homepage.png)
 
 ### 🔹 Book Recommendations
-![Recommendation Page](assets/recommendation.png)
+![Recommendation Page](recommendation.png)
 
